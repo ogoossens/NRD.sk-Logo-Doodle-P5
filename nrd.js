@@ -12,7 +12,7 @@
  Should you have anything to share or any questions - find this project on GitHub.
 
  Github:
- XXXXXXXXXXXXXX
+ https://github.com/ogoossens/NRD.sk-Logo-Doodle-P5
 
  Notes:
  - Its made responsive and can fit into any sized DIV :-)
