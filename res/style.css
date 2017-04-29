@@ -1,5 +1,10 @@
+div.center {
+    text-align: center;
+}
+
 div.nrd-sketch-holder {
     margin: auto;
-    height: 100%;
+    margin-top: 50px;
+    height: 50%;
     width: 30%;
 }
